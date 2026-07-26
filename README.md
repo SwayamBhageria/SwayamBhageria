@@ -3,22 +3,21 @@
 Software engineer in Delhi, India. I build and ship full-stack and applied-AI products
 end to end — usually solo, usually all the way to production and paying users.
 
-Currently a software engineer at **Interra Systems**, working on a real-time
-broadcast/OTT video-monitoring platform: Kafka event streams fanned out over WebSockets
-to a live tiled video wall, in Angular and TypeScript.
+Day to day I work on a real-time broadcast/OTT video-monitoring platform: Kafka event
+streams fanned out over WebSockets to a live tiled video wall, in Angular and TypeScript.
 
 ---
 
 ### Things I've shipped
 
-**[Facely](https://facely.shop)** — AI face-search for event photography · *live*
+**[Facely](https://facely.shop)** — AI face-search for event photography · *live* · [write-up](https://github.com/SwayamBhageria/facely)
 Guests upload one selfie and get back every photo they appear in. InsightFace embedding
 pipeline with FAISS vector search, on a queued auto-resuming index that survives
 restarts. Indexed 6,830 faces from a 998-photo event; searches return in ~1.9s at 0.972
 confidence with zero false positives.
 `FastAPI` `InsightFace` `FAISS` `Docker` `Caddy` `Oracle Cloud ARM`
 
-**[ReviewHQ](https://reviewhq.online)** — AI review management for local businesses · *live*
+**[ReviewHQ](https://reviewhq.online)** — AI review management for local businesses · *live* · [write-up](https://github.com/SwayamBhageria/reviewhq)
 Monitors Google Business Profile reviews and drafts context-aware replies with tone and
 Hindi/Hinglish/English detection, behind a multi-model fallback chain for provider
 degradation.
