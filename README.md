@@ -24,7 +24,7 @@ degradation.
 `FastAPI` `PostgreSQL` `Gemini` `OAuth 2.0` `Razorpay` `Twilio`
 
 **[autonomous-job-finder](https://github.com/SwayamBhageria/autonomous-job-finder)** — unattended job discovery · *source available*
-Polls 130 company career boards every 30 minutes across 14 different ATS adapters,
+Polls 211 company career boards hourly across 20 different ATS adapters,
 scores each role with an LLM acting as judge, and alerts only genuine matches. Parallel
 fetch with per-board fault isolation, two-stage scoring to stay inside free-tier quota,
 and idempotent state committed back to the repo. No server, no database.
