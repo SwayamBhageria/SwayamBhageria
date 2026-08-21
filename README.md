@@ -10,6 +10,14 @@ streams fanned out over WebSockets to a live tiled video wall, in Angular and Ty
 
 ### Things I've shipped
 
+**[Context Budget Lab](https://context-budget-lab.vercel.app)** — what an AI coding agent actually reads · *live* · [source](https://github.com/SwayamBhageria/context-budget-lab)
+A retrieval benchmark. Measures the smallest context in which a question about a codebase
+stays answerable, checked against the exact lines that answer it — grepped before the
+selector ever runs. BM25 with import-graph expansion, scored against best-case grep and a
+local dense model over 5 repos and 4 languages. 6 of 9 questions beat grep, 3 lose, and the
+losses are in the write-up. Deterministic, no API key, indexes any public repo live.
+`TypeScript` `Next.js` `BM25` `all-MiniLM-L6-v2` `tiktoken`
+
 **[Facely](https://facely.shop)** — AI face-search for event photography · *live* · [write-up](https://github.com/SwayamBhageria/facely)
 Guests upload one selfie and get back every photo they appear in. InsightFace embedding
 pipeline with FAISS vector search, on a queued auto-resuming index that survives
@@ -43,7 +51,7 @@ training data to correct class imbalance. 97.1% accuracy, 97.1% F1.
 **Frontend** Angular · RxJS · Signals · Angular Material · Tailwind
 **Backend** FastAPI · Node.js · Express · Spring Boot · REST · WebSockets · Kafka
 **Data** PostgreSQL · MongoDB · MySQL · FAISS
-**ML / AI** TensorFlow · Keras · scikit-learn · LLM application development · vector search
+**ML / AI** TensorFlow · Keras · scikit-learn · LLM application development · vector search · retrieval benchmarking
 **Infra** Docker · Nginx · Caddy · Cloudflare · Linux · GitHub Actions
 
 ---
