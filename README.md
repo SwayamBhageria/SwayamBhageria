@@ -41,9 +41,6 @@ after review.
 
 ### Measuring whether AI systems work
 
-Four projects on the same theme: an AI system that returns something confident is not the
-same as one that returns something correct.
-
 **[leaderboard-error-bars](https://github.com/SwayamBhageria/leaderboard-error-bars)** — how much of a benchmark's ranking its own data supports · 2026
 A public leaderboard ranks seven voice-agent platforms. Recovering the integer counts behind
 its percentages shows ranks 2 and 3 differ by one scenario out of 82, and that no adjacent
