@@ -1,16 +1,16 @@
 ## Swayam Bhageria
 
-Software engineer. I build full-stack and applied-AI systems end to end, usually solo,
-usually all the way to production. Recently most of my own work has circled one question:
+Software engineer. I build full-stack systems and applied-AI products end to end and take
+them to production. Recently most of my own work has circled one question:
 **how do you actually know an AI system is working?**
 
 Based in Delhi, India. **Open to full-stack and applied-AI roles — onsite, remote, or
 relocation.** 2025 graduate.
 
-Day to day I'm a software engineer on an enterprise real-time broadcast/OTT
-video-monitoring platform: Kafka alarm streams fanned out to browsers over a
-STOMP-over-SockJS layer with auto-reconnect, driving a tiled video wall of live HLS, in
-Angular and TypeScript.
+Day to day I work in a five-engineer team on an enterprise real-time broadcast/OTT
+video-monitoring platform, across the stack: Kafka alarm streams fanned out to browsers over
+a STOMP-over-SockJS layer with auto-reconnect driving a tiled video wall of live HLS, the
+services behind it, and the Linux/RHEL deployment path that ships it.
 
 ---
 
@@ -30,9 +30,11 @@ and Hindi/Hinglish/English detection driving prompt selection, behind a multi-mo
 chain for provider degradation. OAuth 2.0, scheduled polling with backoff, webhook billing.
 `FastAPI` `PostgreSQL` `Gemini` `OAuth 2.0`
 
-**[OrderMender](https://wordpress.org/plugins/ordermender/)** — WooCommerce recovery plugin · *live on wordpress.org* · 2026
-Published to the WordPress plugin directory after review. Recovers failed and abandoned
-WooCommerce orders.
+**[OrderMender](https://ordermender.com)** — WooCommerce order-editing plugin · *live on [wordpress.org](https://wordpress.org/plugins/ordermender/)* · 2026
+Gives a store a short, controlled editing window after checkout: orders pause in a
+"Hold for Editing" status while the customer corrects their own address or notes before
+fulfilment begins, instead of emailing support. Published to the WordPress plugin directory
+after review.
 `PHP` `WooCommerce` `WordPress Plugin API`
 
 ---
