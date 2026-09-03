@@ -5,7 +5,7 @@ usually all the way to production. Recently most of my own work has circled one 
 **how do you actually know an AI system is working?**
 
 Based in Delhi, India. **Open to full-stack and applied-AI roles — onsite, remote, or
-relocation.** 2025 graduate, engineering since June 2025.
+relocation.** 2025 graduate.
 
 Day to day I'm the sole frontend owner on an enterprise real-time broadcast/OTT
 video-monitoring platform: Kafka alarm streams fanned out to browsers over a
