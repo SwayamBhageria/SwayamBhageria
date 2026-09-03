@@ -7,7 +7,7 @@ usually all the way to production. Recently most of my own work has circled one 
 Based in Delhi, India. **Open to full-stack and applied-AI roles — onsite, remote, or
 relocation.** 2025 graduate.
 
-Day to day I'm the sole frontend owner on an enterprise real-time broadcast/OTT
+Day to day I'm a software engineer on an enterprise real-time broadcast/OTT
 video-monitoring platform: Kafka alarm streams fanned out to browsers over a
 STOMP-over-SockJS layer with auto-reconnect, driving a tiled video wall of live HLS, in
 Angular and TypeScript.
