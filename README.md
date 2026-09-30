@@ -25,7 +25,7 @@ returns in ~1.9s with zero false positives. Full commercial stack: HMAC-verified
 streaming-zip downloads, Docker/Caddy/Cloudflare.
 `FastAPI` `InsightFace` `FAISS` `Docker` `Oracle Cloud ARM`
 
-**[ReviewHQ](https://reviewhq.online)** — AI review management for local businesses · *live* · [write-up](https://github.com/SwayamBhageria/reviewhq) · 2026
+**[ReviewHQ](https://reviewhq.online)** — AI review management for local businesses · *alpha* · [write-up](https://github.com/SwayamBhageria/reviewhq) · 2026
 Monitors Google Business Profile reviews and drafts context-aware replies, with tone control
 and Hindi/Hinglish/English detection driving prompt selection, behind a multi-model fallback
 chain for provider degradation. OAuth 2.0, scheduled polling with backoff, webhook billing.
