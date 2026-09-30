@@ -114,6 +114,6 @@ lose, and the losses are kept in the write-up.
 
 B.Tech in Electronics & Communication (AI & ML), **NSUT Delhi**, 2021–2025 · CGPA 8.4\
 Thesis: [schizophrenia detection from EEG](https://github.com/SwayamBhageria/Schizophrenia-detection), CNN-LSTM with VAE augmentation, 97.1% accuracy\
-CodeChef 3★ (1600+) · 500+ LeetCode
+[CodeChef](https://www.codechef.com/users/swayam_b) 3★ (1600+) · [500+ LeetCode](https://leetcode.com/u/Swayambhageria/)
 
 **[LinkedIn](https://linkedin.com/in/swayam-bhageria)** · **[bhageriaswayam@gmail.com](mailto:bhageriaswayam@gmail.com)**
